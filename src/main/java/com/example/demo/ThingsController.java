@@ -15,7 +15,7 @@ public class ThingsController {
         
         String[] things = {
             "Android", "Maple", "Motorcycle", "Tower", "Gym", 
-            "Donuts", "Coffee", "Castle", "Elephant", "Apple", "Clean", "Test"
+            "Donuts", "Coffee", "Castle", "Elephant", "Apple", "Clean", "Test", "Cat"
         };
 
         
